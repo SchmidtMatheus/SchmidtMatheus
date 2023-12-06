@@ -4,11 +4,13 @@
 
 <div>
   <a href="https://github.com/SchmidtMatheus">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=schmidtmatheus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=schmidtmatheus&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schmidtmatheus&layout=compact&theme=radical"/>
 </div>
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schmidtmatheus&layout=compact&theme=radical"/>
+   <img height="139em" align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=SchmidtMatheus&layout=compact&theme=radical"/>
 </div>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
